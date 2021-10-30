@@ -278,3 +278,44 @@ It works online but You can create it offline, by NFC cards with your handy, wit
 Sczytujemy kolejno karty od góry do dołu poprzez czytnik NFC (poprzez smartfon'a) i kolejno są otwierane adresy, które są identyfikowane jako kolejne elementy (identyfikacja adresu IP), równocześnie powstaje strona www oparta o te moduły. Lista modułów jest zapisana w JSON, ładowane są za pomocą rozwiązania WebStream .dev , wcześniej biblioteka jLoads, teraz kilka modularnych funkcji docelowo na kilka jezyków, dzięki czemu nie będzie problemu z implementacją w python, php, itd
 
 ![modules](modules.png)
+
+
+
+## About Webstream
+
++  Website about Webstreaming on github - [web-stream/www](https://github.com/web-stream/www)
+
+## About Tom Sapletta
+
++ [Contact on linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Tom Sapletta Blog - Embedded System Software & Hardware Developer](https://tom.sapletta.com/)
++ [Softreck Company - Leadership Through Software Development](https://softreck.com/)
+
+
+## Devops supported by [Api Foundation](https://www.apifoundation.com)
+
++ [.apicra](https://www.apicra.com) - bash scripts to prepare environment
++ [.apifunc](https://www.apifunc.com) - funkcje, implementacja apiunit
++ [.apiunit](https://www.apiunit.com) - metadane potrzebne do stworzenia aplikacji
++ [.apibuild](https://www.apibuild.com) - budowanie plaikacji, deployment
++ [.apiterminal](https://www.apiterminal.com) - devops terminal by web
+
+
+## Substantively supported by: 
+
++ [SaaS is King .com](https://www.saasisking.com/)
++ [hyper Modularity .com](https://www.hypermodularity.com/)
+
+
+## Sponsored by:
+
++ [Softreck - Leadership Through Software Development](https://softreck.com/)
+
+
+
+---
++ [edit](https://github.com/web-stream/modules/edit/main/README.md)
+```
+https://github.com/web-stream/modules.git
+```
+
